@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SandboxEnvironmentError",""]],"struct":[["SandboxEnvironment","Environment to run one module at a time providing Ext."]]});
